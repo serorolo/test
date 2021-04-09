@@ -6,10 +6,10 @@
 <meta charset="UTF-8">
 <title>A_color</title>
 <style>
-	*{background:blue;}
+	*{background:#ccc;}
 </style>
 </head>
 <body>
-
+	<a href="index.jsp">돌아가기</a>
 </body>
 </html>
