@@ -14,7 +14,7 @@
 	</p>
 	<p>
 		깃허브 테스트를 위해
-		B_color branch로 수정 진행중입니다..f
+		B_color branch로 수정 진행중입니다..fㄴ
 	</p>
 
 </body>
